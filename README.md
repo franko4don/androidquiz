@@ -1,0 +1,1 @@
+An android quiz app which fetches questions and options from an online server via an api call and renders the view on mobile. it keeps track of the quiz history as well and users will have to register and login.
